@@ -1,4 +1,4 @@
-      Descrierea jocului:
+       Descrierea jocului:
    
 Jocul se numeste "Cross the road!" si este in stilul jocului Frogger. Pentru a aprinde jocul trebuie apasat butonul joystick-ului.
 Meniul are 3 optini:
@@ -16,7 +16,7 @@ numar de vieti ramase inmultit cu
 
 
  
-      BOM:
+       BOM:
 - Arduino UNO (x1)
 - Cablu USB (x1)
 - Matrice 8x8 (x1)
@@ -30,5 +30,5 @@ numar de vieti ramase inmultit cu
 
 
 
-      Video:
+       Video:
   https://youtu.be/2af74lb0-is
