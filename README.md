@@ -18,7 +18,6 @@ numar de vieti ramase inmultit cu
  
        BOM:
 - Arduino UNO (x1)
-- Cablu USB (x1)
 - Matrice 8x8 (x1)
 - Driver 7219 (x1)
 - LCD (x1)
