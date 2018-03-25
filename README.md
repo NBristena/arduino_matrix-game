@@ -26,6 +26,7 @@ numar de vieti ramase inmultit cu
 - Capacitor (x1)
 - Joystick (x1)
 - Breadboard (x2)
+- Fire de legatura (multe)
 
 
 
